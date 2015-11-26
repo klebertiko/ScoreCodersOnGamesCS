@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Coders On Games CS</string>
+    <string name="team_a">Player A / Team A</string>
+    <string name="team_b">Player B / Team B</string>
+    <string name="team_a_score">0</string>
+    <string name="team_b_score">0</string>
+    <string name="team_a_one_point">+ 1 Point</string>
+    <string name="team_b_one_point">+ 1 Point</string>
+    <string name="reset_button">Reset</string>
+    <string name="action_settings"></string>
+</resources>
